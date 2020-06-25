@@ -1,0 +1,734 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tr",
+				"transform\tproperty"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"a",
+				"auto\toverflow"
+			],
+			[
+				"r",
+				"right\tproperty"
+			],
+			[
+				"le",
+				"left\tproperty"
+			],
+			[
+				"l",
+				"letter-spacing\tproperty"
+			],
+			[
+				"padding",
+				"padding-top\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"m",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"c",
+				"checked\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"paddi",
+				"padding\tproperty"
+			],
+			[
+				"bore",
+				"border\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"box",
+				"box-sizing\tproperty"
+			],
+			[
+				"te",
+				"textarea\tTag"
+			],
+			[
+				"border",
+				"border-width\tproperty"
+			],
+			[
+				"text-d",
+				"text-decoration\tproperty"
+			],
+			[
+				"ca",
+				"class\tAttr"
+			],
+			[
+				"magin",
+				"margin-top\tproperty"
+			],
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"s",
+				"static\tposition"
+			],
+			[
+				"pd",
+				"padding-top\tproperty"
+			],
+			[
+				"col",
+				"col-md-4"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"med",
+				"media"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"mag",
+				"margin\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"backgroun",
+				"background-attachment\tproperty"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"background-i",
+				"background-size\tproperty"
+			],
+			[
+				"u",
+				"url()\tbackground"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"padding-",
+				"padding-top\tproperty"
+			],
+			[
+				"conta",
+				"container"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"border-bo",
+				"border-bottom\tproperty"
+			],
+			[
+				"heig",
+				"height\tproperty"
+			],
+			[
+				"im",
+				"images"
+			],
+			[
+				"mari",
+				"margin-bottom\tproperty"
+			],
+			[
+				"heigh",
+				"line-height\tproperty"
+			],
+			[
+				"i",
+				"important"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"wor",
+				"word-spacing\tproperty"
+			],
+			[
+				"spa",
+				"word-spacing\tproperty"
+			],
+			[
+				"icon",
+				"icon1"
+			],
+			[
+				"b",
+				"border\tproperty"
+			],
+			[
+				"magi",
+				"margin-top\tproperty"
+			],
+			[
+				"min",
+				"min-height\tproperty"
+			],
+			[
+				"bo",
+				"border\tproperty"
+			],
+			[
+				"st",
+				"static\tposition"
+			],
+			[
+				"fa-a",
+				"fa-accessible-icon"
+			],
+			[
+				"pdd",
+				"padding\tproperty"
+			],
+			[
+				"ol",
+				"olabode"
+			],
+			[
+				"ade",
+				"adegoke"
+			],
+			[
+				"tra",
+				"transparent"
+			],
+			[
+				"border-s",
+				"border-style\tproperty"
+			],
+			[
+				"ph",
+				"phone"
+			],
+			[
+				"container",
+				"container-fluid"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"animation",
+				"animation\tproperty"
+			],
+			[
+				"fi",
+				"figure\tTag"
+			],
+			[
+				"fl",
+				"flex\tdisplay"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"T",
+				"Transformer"
+			],
+			[
+				"h",
+				"h2\tTag"
+			],
+			[
+				"tex-t",
+				"text-transform\tproperty"
+			],
+			[
+				"anima",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"ani",
+				"animation\tproperty"
+			],
+			[
+				"ami",
+				"animation-duration\tproperty"
+			],
+			[
+				"f",
+				"flex\tdisplay"
+			],
+			[
+				"tran",
+				"translateX()\ttransform"
+			],
+			[
+				"p",
+				"phone"
+			],
+			[
+				"pddin",
+				"padding-right\tproperty"
+			],
+			[
+				"style",
+				"outline-style\tproperty"
+			],
+			[
+				"coll",
+				"collapsibleNavbar"
+			],
+			[
+				"con",
+				"container"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"trans",
+				"transition\tproperty"
+			],
+			[
+				"fle",
+				"inline-flex\tdisplay"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"d",
+				"do"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"sp",
+				"word-spacing\tproperty"
+			],
+			[
+				"width",
+				"width\tproperty"
+			],
+			[
+				"n",
+				"unset\tbackground"
+			],
+			[
+				"bib",
+				"bible-quiz"
+			],
+			[
+				"border-b",
+				"border-bottom-width\tproperty"
+			],
+			[
+				"borde",
+				"border-width\tproperty"
+			],
+			[
+				"animation-d",
+				"animation-duration\tproperty"
+			],
+			[
+				"ea",
+				"ease-in-out\tanimation-timing-function"
+			],
+			[
+				"es",
+				"ease-in\tanimation-timing-function"
+			],
+			[
+				"backgou",
+				"background-size\tproperty"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"transt",
+				"transition\tproperty"
+			],
+			[
+				"cen",
+				"text-center"
+			],
+			[
+				"tx",
+				"text-center"
+			],
+			[
+				"onm",
+				"onmouseover\tAttr"
+			],
+			[
+				"qui",
+				"quiz"
+			],
+			[
+				"poi",
+				"pioneers"
+			],
+			[
+				"hr",
+				"href"
+			],
+			[
+				"smo",
+				"smooth-scroll"
+			],
+			[
+				"sc",
+				"scroll"
+			],
+			[
+				"text-",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"inli",
+				"inline-block\tdisplay"
+			],
+			[
+				"t",
+				"translateY()\ttransform"
+			],
+			[
+				"inl",
+				"inline-block\tdisplay"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"wi",
+				"white"
+			],
+			[
+				"w",
+				"webkit-transform"
+			],
+			[
+				"navbarV",
+				"navbarNav"
+			],
+			[
+				"na",
+				"navbar"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"fony",
+				"font-style\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"boder",
+				"border-radius\tproperty"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/DELL/Desktop/egghead web/blog.html",
+		"/C/Users/DELL/Desktop/egghead web/blog.css",
+		"/C/Users/DELL/Desktop/audacity-2.4.1/audacity-2.4.1/audacity.exe",
+		"/C/Users/DELL/Desktop/audacity.exe",
+		"/C/Users/DELL/Desktop/winner/about.html",
+		"/C/Users/DELL/Desktop/winner/about.css",
+		"/C/Users/DELL/Desktop/winner/media.html",
+		"/C/Users/DELL/Desktop/winner/winner.html",
+		"/C/Users/DELL/Desktop/my web images/quiz.html",
+		"/C/Users/DELL/Desktop/winner/media.css",
+		"/C/Users/DELL/Desktop/New folder (2)/The Complete Web Developer in 2018 Zero to Mastery/10. Javascript/12.2 exercise5 SOLUTIONS.js.js",
+		"/C/Users/DELL/Desktop/winner/winner.css",
+		"/C/Users/DELL/Desktop/egghead web/church.html",
+		"/C/Users/DELL/Desktop/my web images/bible.css",
+		"/C/Users/DELL/Desktop/my web images/bible.html",
+		"/C/Users/DELL/Desktop/egghead web/church.css",
+		"/C/Users/DELL/Desktop/my web images/learn.js",
+		"/C/Users/DELL/Desktop/my web images/learn.css",
+		"/C/php2/php2.ini",
+		"/C/php/php.ini",
+		"/C/Users/DELL/Desktop/my web images/bibleart.css",
+		"/C/Users/DELL/Desktop/my web images/biart.css",
+		"/C/Users/DELL/Desktop/my web images/biart.html",
+		"/C/Users/DELL/Desktop/my web images/bibleart.html",
+		"/C/Users/DELL/Desktop/my web images/bible-quiz.css",
+		"/C/Users/DELL/Desktop/my web images/bible-quiz.html",
+		"/C/Users/DELL/Desktop/my web images/learn.html",
+		"/C/Users/DELL/Desktop/my web images/egg.css",
+		"/C/Users/DELL/Desktop/my web images/egghead.html",
+		"/C/Users/DELL/Desktop/my web images/article.html",
+		"/C/Users/DELL/Desktop/my web images/art.css",
+		"/C/Users/DELL/Desktop/my web images/qui.css",
+		"/C/Users/DELL/Desktop/my web images/g.html",
+		"/C/Users/DELL/Desktop/my web images/busayo.html",
+		"/C/Users/DELL/Desktop/my web images/new web pages/bible.css",
+		"/C/Users/DELL/Desktop/egghead web/fiyin.html",
+		"/C/Users/DELL/Desktop/egghead web/fiyin.css",
+		"/C/Users/DELL/Desktop/egghead web/fiyin.js",
+		"/C/Users/DELL/Desktop/egghead web/b.html",
+		"/C/Users/DELL/Desktop/fontawesome-free-5.13.0-web/css/fontawesome.min.css",
+		"/C/Users/DELL/Desktop/my web images/qu.js",
+		"/C/Users/DELL/Desktop/my web images/g.js",
+		"/C/Users/DELL/Documents/Sublime Text Build 3211 x64 Setup.exe",
+		"/C/Users/DELL/Desktop/my web images/art.js",
+		"/C/Users/DELL/Desktop/my web images/smooth-scroll.js",
+		"/C/Users/DELL/Desktop/my web images/gg.css",
+		"/C/Users/DELL/Desktop/my web images/gg/g.html",
+		"/C/Users/DELL/Desktop/my web images/busa.css",
+		"/C/Users/DELL/Desktop/my web images/bootstrap-4.4.1-dist/css/bootstrap.min.css",
+		"/C/Users/DELL/Documents/g.html",
+		"/C/Users/DELL/Desktop/my web images/images/image.png.png",
+		"/C/Users/DELL/Documents/egghead.html",
+		"/C/Users/DELL/Documents/egg.css",
+		"/C/Users/DELL/Documents/ASFOAU.jpg"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "church.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\DELL\\Desktop\\my web images\\quiz.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
